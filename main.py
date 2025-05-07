@@ -1,2 +1,2 @@
-from config.py import MY_FIO
+from config import MY_FIO
 print(f"Hello, {MY_FIO}")
